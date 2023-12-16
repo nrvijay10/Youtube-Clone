@@ -61,6 +61,7 @@
 .search-bar::placeholder
 {
   font-size: 14px;
+  font-family: Roboto, Arial;
 }
 
 .search-button
